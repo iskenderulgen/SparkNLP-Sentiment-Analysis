@@ -1,0 +1,36 @@
+abstract algebra
+algebraic 
+algorithm
+analysis 
+analytic geometry
+arithmetic 
+axiom
+Bayesian probability
+Bijection
+binary 
+Binomial
+calculus 
+coefficients
+complex number
+congruence
+coordinate
+descriptive 
+differential 
+equation
+exact 
+experimental 
+exponent 
+fraction 
+graph theory
+hyperbolic 
+integral 
+logarithmic
+logical 
+mathematical 
+methodical 
+numeral 
+numerical 
+polynomial
+statistical 
+symmetry
+vector 
